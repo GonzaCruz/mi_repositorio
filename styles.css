@@ -1,0 +1,15 @@
+.carousel-inner {
+    max-height: 50rem;
+}
+.carousel-caption{
+    margin-bottom: 350px;
+}
+#redes_sociales{
+    font-size: large;
+}
+!important
+.card-body:hover{
+    transform: scale(1.20);
+}
+
+
